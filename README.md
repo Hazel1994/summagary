@@ -13,8 +13,6 @@
 
 </div>
 
-# Summagary: Document Summarization through Images
-
 ## Overview
 Summagary is a tool designed to summarize lengthy documents into concise visual representations. It is capable of handling diverse content, including abstract, figurative language, and concrete scenarios.
 

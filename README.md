@@ -9,7 +9,7 @@
 <img src="featured.jpg"  width="50%" height="50%">
 </div>
 
-###  [See Examples](https://github.com/Hazel1994/ViPE-Videos) | [Use in Huggingface](https://huggingface.co/spaces/fittar/summagary)
+###  [See Examples](https://www.youtube.com/watch?v=mFMkE2waYGQ) | [Use in Huggingface](https://huggingface.co/spaces/fittar/summagary)
 
 </div>
 
@@ -55,7 +55,11 @@ Simply copy and paste either one into your browser, using the public URL, you ca
 
 ## Examples
 Below are examples showcasing the original document and the corresponding generated image summary for various types of content.
-
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=mFMkE2waYGQ">
+    <img src="./thumbnail.png" alt="examples" width="76%" height="76%">
+  </a>
+</p>
 
 ## How It Works
 Summagary employs advanced algorithms and image generation techniques to process textual data and condense it into visual representations. The process involves:

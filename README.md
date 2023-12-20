@@ -65,7 +65,7 @@ Below are examples showcasing the original document and the corresponding genera
 Summagary employs advanced algorithms and image generation techniques to process textual data and condense it into visual representations. The process involves:
 
 1. **summarization:** Summagary recursively summarizes the input document, until it reaches a few sentences.
-2. **Prompt Generation:** The summarized version of the document is then passed to [ViPE]{} for prompt generation.
+2. **Prompt Generation:** The summarized version of the document is then passed to [ViPE](https://huggingface.co/fittar/ViPE-M-CTX7) for prompt generation.
 3. **Image Generation:** Different prompts are fed into SDXL for visualization.
 
 ## Contact

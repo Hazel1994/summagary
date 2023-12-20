@@ -9,7 +9,7 @@
 <img src="featured.jpg"  width="50%" height="50%">
 </div>
 
-###  [See Examples](https://www.youtube.com/watch?v=mFMkE2waYGQ) | [Use in Huggingface](https://huggingface.co/spaces/fittar/summagary)
+###  [See Examples](https://www.youtube.com/watch?v=mFMkE2waYGQ) | [Test It Out on Hugging Face](https://huggingface.co/spaces/fittar/summagary)
 
 </div>
 

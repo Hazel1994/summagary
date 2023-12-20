@@ -64,9 +64,9 @@ Below are examples showcasing the original document and the corresponding genera
 ## How It Works
 Summagary employs advanced algorithms and image generation techniques to process textual data and condense it into visual representations. The process involves:
 
-1. **summarization:** Summagary recursively summarizes the input document, until it reaches a few sentences.
+1. **summarization:** Summagary recursively summarizes the input document using [T5](https://huggingface.co/docs/transformers/model_doc/t5), until it reaches a few sentences.
 2. **Prompt Generation:** The summarized version of the document is then passed to [ViPE](https://huggingface.co/fittar/ViPE-M-CTX7) for prompt generation.
-3. **Image Generation:** Different prompts are fed into SDXL for visualization.
+3. **Image Generation:** Different prompts are fed into [SDXL](https://huggingface.co/docs/diffusers/using-diffusers/sdxl) for visualization.
 
 ## Contact
 <a href='https://fittar.me/'> Hassan Shahmohammadi </a>&emsp;
